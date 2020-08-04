@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<center>
+<table>
+  <tr>
+        <td><img width="410px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDanin&hide=html,css&layout=compact" /></td>
+      <td><img width="410px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoDanin&show_icons=true&theme=default" /></td>
+  </tr>   
+</table>
+</center>
+
 <!--
 **TiagoDanin/TiagoDanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
