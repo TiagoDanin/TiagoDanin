@@ -1,25 +1,12 @@
-### Hi there 👋
-
 <center>
-<table>
-  <tr>
-        <td><img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDanin&hide=html,css&layout=compact" /></td>
-      <td><img width="400px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoDanin&show_icons=true&theme=default" /></td>
-  </tr>   
-</table>
+  <img width="47%" height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=TiagoDanin&show_icons=true&theme=default" /> 
+  <img width="47%" height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoDanin&hide=html,css&layout=compact" />
 </center>
 
-<!--
-**TiagoDanin/TiagoDanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥 Mobile Developer at VoxData Technology | Independent Cyber Security Researcher at HackerOne 
 
-Here are some ideas to get you started:
+🐦 [twitter.com/_TiagoEDGE/](https://twitter.com/_TiagoEDGE/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [linkedin.com/in/tiagodanin/](https://www.linkedin.com/in/tiagodanin/)
+
+🌐 [tiagodanin.github.io](https://tiagodanin.github.io/)
