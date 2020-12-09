@@ -1,4 +1,4 @@
-### Hey! <img alt="Waving hand emoji" src="https://github.com/OfficialMarinho/OfficialMarinho/blob/master/waving-hand-emoji-animated.gif?raw=true" width="25px">
+### Hey!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-TiagoDanin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TiagoDanin/)](https://www.linkedin.com/in/TigoDanin/)
 [![LinkedIn Badge](https://img.shields.io/badge/-@__TiagoEDGE-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/_TiagoEDGE/)](https://twitter.com/_TiagoEDGE/)
