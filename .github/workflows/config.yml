@@ -42,7 +42,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_ignored: html, css, csharp, shaderlab, hlsl
           plugin_languages_colors: github
-          plugin_languages_limit: 7
+          plugin_languages_limit: 4
           plugin_languages_recent_days: 100
           plugin_languages_recent_load: 300
           plugin_languages_details: percentage
