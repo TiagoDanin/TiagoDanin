@@ -40,11 +40,9 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_ignored: html, css
-          plugin_languages_categories: markup, programming
+          plugin_languages_ignored: html, css, csharp, shaderlab, hlsl
           plugin_languages_colors: github
-          plugin_languages_limit: 5
-          plugin_languages_recent_categories: markup, programming
+          plugin_languages_limit: 7
           plugin_languages_recent_days: 100
           plugin_languages_recent_load: 300
           plugin_languages_details: percentage
@@ -56,4 +54,5 @@ jobs:
           plugin_posts_source: dev.to
           plugin_posts_user: TiagoDanin
           plugin_posts_limit: 3
+          repositories_affiliations: owner, collaborator
           repositories_forks: false
