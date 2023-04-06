@@ -26,7 +26,7 @@ jobs:
           # Options
           user: TiagoDanin
           template: classic
-          base: header, repositories
+          base: header
           base_hireable: yes
           config_timezone: America/Belem
           plugin_wakatime: yes
