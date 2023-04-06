@@ -26,7 +26,7 @@ jobs:
           # Options
           user: TiagoDanin
           template: classic
-          base: header, activity, repositories
+          base: header, repositories
           base_hireable: yes
           config_timezone: America/Belem
           plugin_wakatime: yes
@@ -43,8 +43,8 @@ jobs:
           plugin_languages_ignored: html, css, csharp, shaderlab, hlsl
           plugin_languages_colors: github
           plugin_languages_limit: 4
-          plugin_languages_recent_days: 100
-          plugin_languages_recent_load: 300
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 30
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
