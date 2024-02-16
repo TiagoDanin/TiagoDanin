@@ -48,7 +48,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_achievements: true
+          plugin_achievements: false
           plugin_achievements_limit: 5
           plugin_posts: true
           plugin_posts_source: dev.to
