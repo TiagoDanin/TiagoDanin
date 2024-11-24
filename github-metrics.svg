@@ -163,27 +163,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Dart</span>
-                                <div class="bar" style="width: 57.648%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">72%</span>
+                                <div class="bar" style="width: 59.464%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 15.296000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">19%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Other</span>
-                                <div class="bar" style="width: 2.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 15.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">20%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 1.9440000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 2.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">CocoaPods</span>
-                                <div class="bar" style="width: 1.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">Other</span>
+                                <div class="bar" style="width: 0.976%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 0.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -193,13 +193,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Android Studio</span>
-                                <div class="bar" style="width: 61.008%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 62.928%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">79%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">VS Code</span>
-                                <div class="bar" style="width: 18.991999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 17.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">21%</span>
                             </div>
                         </div>
                     </section>
