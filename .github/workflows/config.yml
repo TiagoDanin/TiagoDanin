@@ -29,7 +29,7 @@ jobs:
           base: header
           base_hireable: yes
           config_timezone: America/Belem
-          plugin_wakatime: yes
+          plugin_wakatime: false
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
@@ -37,7 +37,7 @@ jobs:
           plugin_wakatime_sections: languages, languages-graphs, editors-graphs, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: TiagoDanin
-          plugin_languages: yes
+          plugin_languages: false
           plugin_languages_analysis_timeout: 45
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_ignored: html, css, csharp, shaderlab, hlsl
@@ -50,7 +50,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_achievements: false
           plugin_achievements_limit: 5
-          plugin_posts: true
+          plugin_posts: false
           plugin_posts_source: dev.to
           plugin_posts_user: TiagoDanin
           plugin_posts_limit: 3
